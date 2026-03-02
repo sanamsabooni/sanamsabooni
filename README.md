@@ -1,6 +1,6 @@
-# Hi there, I'm Sanam Sabooni 👋
+# Sanam Sabooni
 
-### Data Analyst & Data Scientist | Automation Engineer | n8n Workflow Specialist
+### Data Analyst | Data Scientist | Automation Engineer
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)
 [![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
@@ -8,34 +8,32 @@
 
 ---
 
-## 🙋‍♀️ About Me
+## About Me
 
-I am a **Data Analyst and Data Scientist** with a strong specialization in **workflow automation** and intelligent pipeline design. Currently based in **Simi Valley, California**, I work at the intersection of data, AI, and automation — turning raw data into actionable insights and building automated systems that save time and eliminate manual work.
+I am a Data Analyst and Data Scientist based in **Simi Valley, California**. My work sits at the intersection of data analysis, machine learning, and workflow automation. I have built data pipelines, trained predictive models, and designed automation systems that reduce manual work and surface insights from raw data.
 
-- 🎓 Computer Science @ **CSUN (California State University, Northridge)**
-- 📊 Data Analyst at **Prudential** | Lecturer at **CSUN**
-- ⚡ Specialist in **n8n automation workflows** — building end-to-end intelligent pipelines
-- 🤖 Passionate about **AI/ML**, **NLP**, and applying data science to real-world problems
-- 🔄 Experienced in automating **job search pipelines**, **data ingestion**, and **business processes**
-- 📍 Based in **Simi Valley, CA**
+I work as a **Data Analyst at Prudential** and teach as a **Lecturer at CSUN (California State University, Northridge)**, where I focus on data, AI, and applied computing.
+
+My current focus is building production-grade automation workflows using **n8n** — connecting APIs, databases, AI models, and cloud services into pipelines that run without human intervention.
 
 ---
 
-## ⚡ Automation & n8n Expertise
+## Automation & n8n
 
-> I design and build professional-grade automation workflows using **n8n** — the open-source workflow automation platform. My workflows connect APIs, databases, AI models, and cloud services into seamless pipelines.
+I design and build workflow automation using n8n, the open-source automation platform. My workflows replace manual, repetitive processes with reliable, scheduled pipelines.
 
-### What I Build with n8n:
-- 🔍 **Job Search Automation** — Scraping job boards, filtering listings, sending tailored alerts
-- 📊 **Data Ingestion Pipelines** — Automated ETL workflows pulling from APIs into databases
-- 🤖 **AI-Powered Workflows** — Integrating OpenAI, LLMs, and NLP models into business processes
-- 📧 **Communication Automation** — Slack, email, and notification bots triggered by data events
-- 🏥 **Healthcare Data Pipelines** — Automated processing and insight extraction from medical call data
-- 💻 **Report Generation** — Scheduled automated reporting from databases to stakeholders
+**What I build:**
+
+- Job search pipelines that pull listings from multiple sources, filter by criteria, and deliver ranked results
+- ETL workflows that move and transform data between APIs, databases, and cloud storage
+- AI-powered pipelines that route data through language models for classification, summarization, or extraction
+- Notification systems triggered by data events via email, Slack, or webhooks
+- Healthcare data pipelines for processing and extracting insight from medical call records
+- Scheduled reports generated from live databases and sent to stakeholders
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 **Data & Analytics:**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
@@ -47,14 +45,14 @@ I am a **Data Analyst and Data Scientist** with a strong specialization in **wor
 
 **Automation & Integration:**
 ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_APIs-009688?style=flat)
+![REST APIs](https://img.shields.io/badge/REST_APIs-009688?style=flat)
 ![Webhooks](https://img.shields.io/badge/Webhooks-FF6C37?style=flat)
 ![MQTT](https://img.shields.io/badge/MQTT-660066?style=flat)
 
 **AI & Machine Learning:**
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white)
-![NLP](https://img.shields.io/badge/NLP-Natural_Language_Processing-blue?style=flat)
-![ML](https://img.shields.io/badge/Machine_Learning-FF6F00?style=flat)
+![NLP](https://img.shields.io/badge/NLP-4B8BBE?style=flat)
+![Machine Learning](https://img.shields.io/badge/Machine_Learning-FF6F00?style=flat)
 
 **Cloud & Infrastructure:**
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat&logo=google-cloud&logoColor=white)
@@ -68,59 +66,55 @@ I am a **Data Analyst and Data Scientist** with a strong specialization in **wor
 
 ---
 
-## 🚀 Featured Projects
+## Projects
 
-### ⚡ Job Search Automation Pipeline *(n8n)*
-End-to-end automated job hunting system that scrapes listings, filters by relevance, scores matches using AI, and delivers personalized daily digests.
-- **Tech:** n8n, Python, OpenAI API, REST APIs, Google Sheets
-- **Impact:** Reduced manual job search time by 90%
+### Job Search Automation Pipeline
+An end-to-end pipeline built in n8n that pulls job listings from multiple boards, scores each listing against a target profile using an AI model, and delivers a daily digest with ranked results.
+- **Tools:** n8n, Python, OpenAI API, Google Sheets
+- **Result:** Manual job search time cut from hours to minutes per day
 
-### 🏥 MedCall Insight Pipeline
-Automated NLP pipeline for extracting insights and patterns from medical call center data.
-- **Tech:** Python, NLP, Cloud Functions, n8n
-- 🔗 [View Repository](https://github.com/sanamsabooni/medcall-insight-pipeline)
+### MedCall Insight Pipeline
+An NLP pipeline that processes medical call center transcripts and extracts patterns, topics, and anomalies for downstream reporting.
+- **Tools:** Python, NLP, Cloud Functions, n8n
+- [View Repository](https://github.com/sanamsabooni/medcall-insight-pipeline)
 
-### 📊 MED Submission Automation
-Fully automated data submission pipeline with validation, transformation, and cloud delivery.
-- **Tech:** Python, Cloud, Automation
-- 🔗 [View Repository](https://github.com/sanamsabooni/MED-submission)
+### MED Submission Automation
+A data submission pipeline with built-in validation and transformation steps before cloud delivery.
+- **Tools:** Python, Cloud
+- [View Repository](https://github.com/sanamsabooni/MED-submission)
 
-### 🤖 ML Linear Regression & Gradient Descent
-From-scratch implementation of linear regression with gradient descent — no ML libraries.
-- **Tech:** Python, NumPy, Math
-- 🔗 [View Repository](https://github.com/sanamsabooni/ML_LinearRegression_GradientDescent)
+### ML Linear Regression from Scratch
+A ground-up implementation of linear regression with gradient descent — no ML libraries used.
+- **Tools:** Python, NumPy
+- [View Repository](https://github.com/sanamsabooni/ML_LinearRegression_GradientDescent)
 
-### 📉 Workforce Attrition Analysis
-Comprehensive data analysis on workforce attrition patterns with predictive modeling.
-- **Tech:** Python, Pandas, Scikit-Learn, Data Visualization
-- 🔗 [View Repository](https://github.com/sanamsabooni/Attrition_Rates_of_Workers)
+### Workforce Attrition Analysis
+A data analysis project that models attrition patterns in workforce data and identifies the factors with the most predictive weight.
+- **Tools:** Python, Pandas, Scikit-Learn
+- [View Repository](https://github.com/sanamsabooni/Attrition_Rates_of_Workers)
 
-### 🔗 HubwalletDS
-Data management system for digital asset tracking and transaction handling.
-- **Tech:** TypeScript, Node.js, REST API
-- 🔗 [View Repository](https://github.com/sanamsabooni/HubwalletDS)
+### HubwalletDS
+A data management system for tracking digital assets and transactions.
+- **Tools:** TypeScript, Node.js, REST API
+- [View Repository](https://github.com/sanamsabooni/HubwalletDS)
 
-### 🏠 Smart Home Backend & IoT Automation
-IoT backend system with MQTT, REST APIs, and n8n-driven automation for smart home control.
-- **Tech:** Rust, MQTT, n8n, Google Cloud, Docker
+### Smart Home Backend
+An IoT backend system with MQTT messaging, REST APIs, and n8n-driven automation for home device control.
+- **Tools:** Rust, MQTT, n8n, Google Cloud, Docker
 
 ---
 
-## 📈 GitHub Stats
+## GitHub Stats
 
 ![Sanam's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sanamsabooni&show_icons=true&theme=dark&hide_border=true)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sanamsabooni&layout=compact&theme=dark&hide_border=true)
 
 ---
 
-## 📫 Get In Touch
+## Contact
 
-I'm open to **data analyst**, **data scientist**, and **automation engineer** roles, as well as **freelance automation projects**.
+I am open to roles in data analysis, data science, and automation engineering, as well as freelance automation projects.
 
-- 💼 **LinkedIn:** [linkedin.com/in/sanamsabooni](https://linkedin.com)
-- 📧 **Email:** your-email@example.com
-- 🌐 **GitHub:** [github.com/sanamsabooni](https://github.com/sanamsabooni)
-
----
-
-*"Automating the repetitive, so humans can focus on the creative."*
+- **LinkedIn:** [linkedin.com/in/sanamsabooni](https://linkedin.com)
+- **Email:** your-email@example.com
+- **GitHub:** [github.com/sanamsabooni](https://github.com/sanamsabooni)
